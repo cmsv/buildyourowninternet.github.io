@@ -3,7 +3,7 @@ title: Build Your Own Internet
 layout: default
 ---
 <h1>
-    <a href="https://github.com/sudomesh/propaganda"><img src="https://raw.githubusercontent.com/sudomesh/propaganda/master/byoiV3_smaller.png" style="border-style: none;" alt="byoiV3"width="105" height="120" />
+    <a href="https://github.com/sudomesh/propaganda"><img src="https://raw.githubusercontent.com/sudomesh/propaganda/master/byoiV3_smaller.png" style="border-style: none;" alt="byoiV3" width="105" height="120" />
     </a> 
     Build Your Own Internet (BYOI)
 </h1>

@@ -9,6 +9,6 @@ From [networks.csv](https://github.com/buildyourowninternet/buildyourowninternet
 
 <ul>
 {% for network in site.data.networks %}
-  <li><a href="{{ network.url }}" target="_blank">{{ network.name }}</a> @ <a href="{{ network.localeId }}" target="_blank">{{ network.locale }}</a></li>
+  <li><a href="{{ network.url }}" target="_blank">{{ network.name }}</a> ({{ network.status }}) @ <a href="{{ network.localeId }}" target="_blank">{{ network.locale }}</a></li>
 {% endfor %}
 </ul>

@@ -5,7 +5,7 @@ layout: default
 
 A non-normative list of existing community-run internet. Want to add a network? [Edit the list](https://github.com/buildyourowninternet/buildyourowninternet.github.io/edit/master/_data/networks.csv) or tweet info using #buildyourowninternet. 
 
-From [networks.csv](./_data/networks.csv):
+From [networks.csv](https://github.com/buildyourowninternet/buildyourowninternet.github.io/raw/master/_data/networks.csv):
 
 <ul>
 {% for network in site.data.networks %}

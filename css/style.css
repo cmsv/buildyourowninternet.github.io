@@ -3,6 +3,6 @@ img[alt=byoi] {
   height: auto;
 }
 
-li.inactive {
+.inactive {
   text-decoration: line-through;
 }

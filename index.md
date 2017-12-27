@@ -11,7 +11,7 @@ layout: default
 
 Learn > Build > Use > Share > Repeat
 
-Build Your Own Internet by joining [existing networks](networks), learning the skills needed run your own mesh network by going through the workstations, and teach what you've learned by holding your very own BYOI Workshop. Also, please help [improve this website](https://github.com/buildyourowninternet/buildyourowninternet.github.io/). 
+Build Your Own Internet by joining [existing networks](networks), learning the skills needed to run your own mesh network, and teach what you've learned by holding your very own BYOI Workshop. Also, please help [improve this website](https://github.com/buildyourowninternet/buildyourowninternet.github.io/). 
 
 Alternatively, follow these instructions:  
 

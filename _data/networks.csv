@@ -2,6 +2,7 @@ name,locale,localeId,status,url
 Ninux,Italy,http://www.geonames.org/3175395,active,http://ninux.org/
 Freifunk,Germany,http://www.geonames.org/2921044,active,http://freifunk.net/
 AWMN,Greece,http://www.geonames.org/390903,active,http://www.awmn.net/
+SarantaPoro,Greece,http://www.geonames.org/390903,active,http://www.sarantaporo.gr/
 Funkfeuer,Austria,http://www.geonames.org/2782113,active,https://funkfeuer.at
 wlan slovenija,Slovenia,http://www.geonames.org/3190538,active,http://wlan-si.net/en/
 Altermundi,Argentina,http://www.geonames.org/3865483,active,http://altermundi.net/
@@ -11,6 +12,7 @@ Red Hook Wifi,Brooklyn New York,http://www.geonames.org/5110302,active,http://re
 NYC Mesh,New York City,http://www.geonames.org/5128581,active,https://nycmesh.net/
 People's Open,Oakland California,http://www.geonames.org/5378538,active,https://www.peoplesopen.net/
 PittMesh,Pittsburg Pennsylvania,http://www.geonames.org/5206379,active,http://www.pittmesh.org/
+MetaMesh,Pittsburg Pennsylvania,http://www.geonames.org/5206379,active,http://www.metamesh.org/
 Guifi,Barcelona Catelonia,http://www.geonames.org/3128760,active,http://guifi.net/en
 Myrtletown.net,Myrtletown California,http://www.geonames.org/5568514,active,http://www.myrtletown.net/wifi.php
 ChicagoMeshnet,Chicago Illinois,http://www.geonames.org/4887398,forming,http://karmanebula.com/chicagomeshnet/

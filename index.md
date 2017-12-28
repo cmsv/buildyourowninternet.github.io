@@ -15,7 +15,7 @@ Build Your Own Internet by joining [existing networks](networks), learning the s
 
 Alternatively, follow these instructions:  
 
-![byoi](./images/byoi.jpeg) ![byoi2](./images/byoi2.jpg)
+![byoi](./images/byoi.jpg) ![byoi2](./images/byoi2.jpg)
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">

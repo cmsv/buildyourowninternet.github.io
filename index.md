@@ -15,13 +15,15 @@ Build Your Own Internet by joining [existing networks](networks), learning the s
 
 Alternatively, follow these instructions:  
 
-![byoi](./images/byoi.jpg) ![byoi2](./images/byoi2.jpg)
+:-------------------------:|:-----------------------------:
+![byoi](./images/byoi.jpg) |  ![byoi2](./images/byoi2.jpg)
+
 <p xmlns:dct="http://purl.org/dc/terms/">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="https://licensebuttons.net/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
 </p>
-The person who associated CC0 with the above image has waived all copyright and related or neighboring rights to this work.   
+The person who associated CC0 with the above images has waived all copyright and related or neighboring rights to this work.   
 This website is based on Sudo Mesh's "Build Your Own Internet" series of workshops.  
 Licenses for linked content may vary.  

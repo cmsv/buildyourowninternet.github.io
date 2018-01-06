@@ -2,12 +2,8 @@
 title: Flash Your Node 
 layout: default
 ---
-<h1>
-    <a href="index"><img src="https://raw.githubusercontent.com/sudomesh/propaganda/master/byoiV3_smaller.png" style="border-style: none;" alt="byoiV3" width="105" height="120" />Build Your Own Internet (BYOI)
-    </a> 
-</h1>
 
-# Flash Your Node
+## Flash Your Node
 
 In general, there are three types of nodes that you may encounter; home nodes, extender nodes, and exit nodes:
 

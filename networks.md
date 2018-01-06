@@ -2,7 +2,7 @@
 title: Community Networks
 layout: default
 ---
-
+## Community Network Projects
 A list of <span class='forming'>forming</span>, <span class='active'>active</span> or <span class='inactive'>inactive</span> community-run networks. Want to add a network? [Edit the list](https://github.com/buildyourowninternet/buildyourowninternet.github.io/edit/master/_data/networks.csv) or tweet info using #buildyourowninternet. 
 
 From [networks.csv](https://github.com/buildyourowninternet/buildyourowninternet.github.io/blob/master/_data/networks.csv) in no particular order:

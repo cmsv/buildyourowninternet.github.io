@@ -2,12 +2,7 @@
 title: Crimp Your Cable 
 layout: default
 ---
-<h1>
-    <a href="index"><img src="https://raw.githubusercontent.com/sudomesh/propaganda/master/byoiV3_smaller.png" style="border-style: none;" alt="byoiV3" width="105" height="120" />Build Your Own Internet (BYOI)
-    </a> 
-</h1>
-
-# How to... Make Straight Through Network Cables!
+## How to... Make Straight Through Network Cables!
 **Material and Tools:** Scissors, CAT6 Network Cable, EZ RJ45 CAT6 Connectors, EZ RJ45 Network Cable Crimper, Cable Tester.
 
 **This is how:**

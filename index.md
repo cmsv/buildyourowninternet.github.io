@@ -6,7 +6,7 @@ layout: default
     <a href="index"><img src="https://raw.githubusercontent.com/sudomesh/propaganda/master/byoiV3_smaller.png" style="border-style: none;" alt="byoiV3" width="105" height="120" />Build Your Own Internet (BYOI)
     </a> 
 </h1>
-### Workstations: [Crimp Your Cable](https://github.com/sudomesh/propaganda/blob/master/how-to-make-straight-through-network-cables.pdf) | [Flash Your Node](flash) | [Dig Your Tunnel](https://github.com/sudomesh/tunneldigger-lab) | [Maintain Your Node](https://github.com/sudomesh/babeld-lab/blob/master/operator_manual.md) | [Setup Your Service](https://github.com/sudomesh/babeld-lab/blob/master/services_guide.md) | [Say Hi](https://www.eventbrite.com/e/build-your-own-internet-v4-tickets-39566902671)  
+### Workstations: [Crimp Your Cable](crimp) | [Flash Your Node](flash) | [Dig Your Tunnel](https://github.com/sudomesh/tunneldigger-lab) | [Maintain Your Node](https://github.com/sudomesh/babeld-lab/blob/master/operator_manual.md) | [Setup Your Service](https://github.com/sudomesh/babeld-lab/blob/master/services_guide.md) | [Say Hi](https://www.eventbrite.com/e/build-your-own-internet-v4-tickets-39566902671)  
 
 Learn > Build > Use > Share > Repeat
 

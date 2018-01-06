@@ -6,7 +6,7 @@ layout: default
     <a href="index"><img src="https://raw.githubusercontent.com/sudomesh/propaganda/master/byoiV3_smaller.png" style="border-style: none;" alt="byoiV3" width="105" height="120" />Build Your Own Internet (BYOI)
     </a> 
 </h1>
-### Workstations: [Crimp Your Cable](crimp) | [Flash Your Node](flash) | [Dig Your Tunnel](https://github.com/sudomesh/tunneldigger-lab) | [Maintain Your Node](https://github.com/sudomesh/babeld-lab/blob/master/operator_manual.md) | [Setup Your Service](https://github.com/sudomesh/babeld-lab/blob/master/services_guide.md) | [Say Hi](https://www.eventbrite.com/e/build-your-own-internet-v4-tickets-39566902671)  
+### Workstations: [Crimp Your Cable](crimp) | [Flash Your Node](flash) | [Dig Your Tunnel](https://github.com/sudomesh/tunneldigger-lab) | [Maintain Your Node](https://github.com/sudomesh/babeld-lab/blob/master/operator_manual.md) | [Setup Your Service](https://github.com/sudomesh/babeld-lab/blob/master/services_guide.md) | [Say Hi](https://peoplesopen.net/workshop)  
 
 Learn > Build > Use > Share > Repeat
 
@@ -23,5 +23,6 @@ Here are some easy to follow instructions to get you started:
   </a>
 </p>
 The person who associated CC0 with the above image has waived all copyright and related or neighboring rights to this work.   
-This website is based on Sudo Mesh's "Build Your Own Internet" series of workshops.  
+
+This website is based on [Sudo Mesh](https://sudoroom.org/wiki/Mesh)'s ["Build Your Own Internet" series of workshops](https://peoplesopen.net/workshop).  
 Licenses for linked content may vary.  

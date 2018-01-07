@@ -1,0 +1,41 @@
+img[alt=byoi] {
+    width: 100%;
+    height: auto;
+}
+
+img.byoi-logo {
+    height: .7em;
+    width: auto;
+}
+
+html {
+    color: white;
+    background: black;
+    font-family: arial, sans-serif;
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 5em;
+    text-align: center;
+
+}
+
+h1 > a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+    color: white;
+}
+
+
+
+h2 {
+    font-size: 2em;
+    padding-right: 4em;
+    text-align: right;
+}
+
+.inactive {
+    text-decoration: line-through;
+}

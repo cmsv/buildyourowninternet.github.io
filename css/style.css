@@ -3,6 +3,12 @@ img[alt=byoi] {
   height: auto;
 }
 
+img[alt=byoi-logo] {
+    width: auto;
+    height: 1em;
+    border-style: none;
+}
+
 body {
     width: 75%;
     margin: 0 auto;

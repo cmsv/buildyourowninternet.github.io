@@ -15,6 +15,10 @@ html {
     font-weight: bold;
 }
 
+a {
+    color: white;
+}
+
 h1 {
     font-size: 5em;
     text-align: center;
@@ -27,8 +31,6 @@ h1 > a {
     padding: 2px 1px 0;
     color: white;
 }
-
-
 
 h2 {
     font-size: 2em;

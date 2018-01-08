@@ -2,7 +2,8 @@
 title: Crimp Your Cable 
 layout: default
 ---
-## How to... Make Straight Through Network Cables!
+## Crimp Your Cable
+### How to... Make Straight Through Network Cables!
 **Material and Tools:** Scissors, CAT6 Network Cable, EZ RJ45 CAT6 Connectors, EZ RJ45 Network Cable Crimper, Cable Tester.
 
 **This is how:**

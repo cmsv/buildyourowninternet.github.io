@@ -1,6 +1,6 @@
 ---
 title: Build Your Own Internet
-layout: default
+layout: default-alt
 ---
 
 **Learn > Build > Use > Share > Repeat**

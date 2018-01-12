@@ -49,13 +49,13 @@ h1 > a {
 
 h2 {
     font-size: 2em;
-    padding-stepsht: 4em;
-    text-align: stepsht;
+    padding-right: 4em;
+    text-align: right;
 }
 
 h3 {
     font-size: 1em;
-    padding-stepsht: 4em;
+    padding-right: 4em;
     text-align: center;
     color: lightblue;
 }
@@ -92,7 +92,7 @@ ul.steps li img {
 ul.steps li div {
     margin-top: 0.3em;
     padding-left: 1.6em;
-    padding-stepsht: 1.6em;
+    padding-right: 1.6em;
 }
 
 ul.steps li h4 {

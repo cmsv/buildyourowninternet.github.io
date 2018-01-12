@@ -49,13 +49,13 @@ h1 > a {
 
 h2 {
     font-size: 2em;
-    padding-right: 4em;
-    text-align: right;
+    padding-stepsht: 4em;
+    text-align: stepsht;
 }
 
 h3 {
     font-size: 1em;
-    padding-right: 4em;
+    padding-stepsht: 4em;
     text-align: center;
     color: lightblue;
 }
@@ -64,12 +64,12 @@ h3 {
     text-decoration: line-through;
 }
 
-ul.rig {
+ul.steps {
     list-style: none;
     font-size: 0px;
     margin-left: -2.5%; /* should match li left margin */
 }
-ul.rig li {
+ul.steps li {
     display: inline-block;
     padding: 10px;
     margin: 0 0 2.5% 2.5%;
@@ -82,20 +82,20 @@ ul.rig li {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
 }
-ul.rig li img {
+ul.steps li img {
     max-width: 100%;
     height: auto;
     background: white;
     border-radius: 10px;
 }
 
-ul.rig li div {
+ul.steps li div {
     margin-top: 0.3em;
     padding-left: 1.6em;
-    padding-right: 1.6em;
+    padding-stepsht: 1.6em;
 }
 
-ul.rig li h4 {
+ul.steps li h4 {
     font-size: 2em;
     font-weight: bold;
     color: white;
@@ -103,7 +103,7 @@ ul.rig li h4 {
     margin-bottom: 0;
     margin-top: 0;
 }
-ul.rig li span {
+ul.steps li span {
     font-size: 1.6em;
     line-height: 1.5em;
     margin-top: 0;
@@ -111,7 +111,7 @@ ul.rig li span {
     color: #999;
 }
 /* class for 2 columns */
-ul.rig.columns-2 li {
+ul.steps.columns-2 li {
     width: 47.5%; /* this value + 2.5 should = 50% */
 }
 
@@ -123,10 +123,10 @@ ul.rig.columns-2 li {
     ul.grid-nav li a {
         display: block;
     }
-    ul.rig {
+    ul.steps {
         margin-left: 0;
     }
-    ul.rig li {
+    ul.steps li {
         width: 100% !important; /* over-ride all li styles */
         margin: 0 0 20px;
     }

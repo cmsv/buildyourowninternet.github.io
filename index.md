@@ -41,4 +41,6 @@ layout: default
 </ul>
 
 
-![cc0](https://licensebuttons.net/p/zero/1.0/88x31.png)
+### ![cc0](https://licensebuttons.net/p/zero/1.0/88x31.png)
+
+### Please help [improve this website](https://github.com/buildyourowninternet/buildyourowninternet.github.io)
